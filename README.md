@@ -14,7 +14,7 @@
 
 ## 📌 Algunos de mis proyectos
 
-<--
+<!--
 ### 🛒 CRUD de Productos con Laravel
 > Proyecto web para gestionar productos: crear, editar, eliminar y listar.  
 > Incluye autenticación, validaciones y estructura MVC con Eloquent.  
