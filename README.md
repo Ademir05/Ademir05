@@ -36,7 +36,7 @@ Estoy abierto a colaborar en proyectos, resolver problemas y aprender en equipo.
 
 📫 Puedes contactarme:  
 - Correo: [ademirdonayre2020@gmail.com](mailto:ademirdonayre2020@gmail.com)  
-- LinkedIn: [linkedin.com/in/ademirdonayre](https://linkedin.com/in/ademirdonayre)  
+- LinkedIn: [linkedin.com/in/ademirdonayre](www.linkedin.com/in/ademir-donayre-ugarte-766528214)  
 - GitHub: [@ademirdonayre](https://github.com/ademirdonayre)
 
 ---
